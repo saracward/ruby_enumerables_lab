@@ -4,7 +4,7 @@
 
 words = %w(We the People of the United States, in Order to form a more
 perfect Union establish Justice insure domestic
-Tranquility provide for the common defence promote the
+Tranquility provide for the common defence, promote the
 general Welfare and secure the Blessings of Liberty to
 ourselves and our Posterity do ordain and establish this
 Constitution for the United States of America)
@@ -20,7 +20,12 @@ mixed_nums = [0, 2, 4, 7]
   # a Fixnum.
   def longest(list)
     # Your code goes here
+    list = list.sort_by { |word| word.length  }
+    p list
+    list[-1]
   end
+
+  puts longest(words)
 
   # Question 2
   # Write ruby code to return the sum 1 to 99 (expect 4950)
