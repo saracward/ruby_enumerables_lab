@@ -12,10 +12,6 @@ _During this lesson, students will be:_
 
 This morning you will each get a method to explore. Your job is to look in the Ruby documentation to read about the method, come up with an explanation of what it is, and show an example of it in use.
 
-You'll have 15 minutes to research and prepare. You will then take turns sharing your screen and presenting your findings to the class. When you are not presenting, it's your job to listen, learn, take notes, and ask questions.
-
-[Google Sheet with assignments](https://docs.google.com/spreadsheets/d/1MNy3REv-fP4eNSs62WoJmHRzfa1Pw5kafJH6kr2JOZs/edit#gid=0)
-
 [String](http://ruby-doc.org/core-2.3.0/String.html)
 
 1. `rstrip` /`rstrip!`
@@ -90,7 +86,7 @@ Example integers:
 
 ## Post your notes and example in Slack
 
-When it's your turn to present, post your topic, notes, and comment in Slack so that others can put it into their notes.
+Create a thread in the resources channel and post your explanations:
 
 ### Formatting for Slack:
 ![formatting](https://i.imgur.com/R1J1OOg.png)
