@@ -21,13 +21,6 @@ Constitution for the United States of America)
     # Your code goes here
   end
 
-  # Write ruby code to return the sum of all values from 1 to 99 (expect 4950)
-  # (i.e. apply the `+` operator).
-  # Assume each entry implements a `+` method.
-  def sum(list)
-    # Your code goes here
-  end
-
   # Write ruby code that returns an array with all of the
   # entries from the list of words capitalized (i.e. 'foo' becomes 'Foo').
   def transform(words)
@@ -41,7 +34,6 @@ Constitution for the United States of America)
 even_nums = [0, 2, 4, 6]
 odd_nums = [1, 5, 7, 9]
 mixed_nums = [0, 2, 4, 7]
-
 
   # Write ruby code that returns true if some of the entries
   # in the list of numbers are odd (test the three given number arrays)
