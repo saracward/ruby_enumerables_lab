@@ -27,8 +27,19 @@ The entire breakout room will submit a single version of the documentation and e
 [String](http://ruby-doc.org/core-2.3.0/String.html)
 
 - `rstrip` /`rstrip!`
+    removes trailing white space. Returns nil if no changes made
+    ```
+    "Hello World".rstrip #=> "Hello World"
+    ```
+
 - `reverse` /`reverse!`
+    reverse returns a new string with the characters from the original string reversed
+    ```
+    puts "String".reverse
+    ```
+
 - `gsub` / `gsub!`
+    
 - `capitalize` `capitalize!` / `upcase` / `upcase!`
 - `downcase`/ `downcase!` / `swapcase` / `swapcase!`
 - `chomp` / `chomp!`
